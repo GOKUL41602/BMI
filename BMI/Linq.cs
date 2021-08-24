@@ -8,7 +8,7 @@ namespace BMI
 	{
 			static void Main()
 		{
-			Console.Write("This is Linq");
+			Console.Write("This is Linq change");
 		}
 		
 	}
