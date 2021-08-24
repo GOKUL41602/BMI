@@ -6,7 +6,10 @@ namespace BMI
 {
 	class Linq
 	{
-
+			static void Main()
+		{
+			Console.Write("This is Linq");
+		}
 		
 	}
 }
